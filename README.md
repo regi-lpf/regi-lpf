@@ -5,9 +5,9 @@
 
 - 📫 Entre em contato comigo via **reginaldo.fillo@gmail.com**
 
-- 📄 Já estudei [Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria)](Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria))
+- 📄 Já estudei **Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria)**
 
-- ⚡ Gosto de **tocar guitarra, ouvir música, videogames, futebol**
+- ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, futebol⚽🥅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
