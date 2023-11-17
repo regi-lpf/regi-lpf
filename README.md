@@ -5,13 +5,12 @@
 
 - 📄 Já estudei **Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria)**
 
-- ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, futebol⚽🥅**
+- ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, corinthians⚽🦅**
 
 - 📫 Entre em contato comigo via **reginaldo.fillo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ejnmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ejnmia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/regi-lpf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="regi-lpf" height="30" width="40" /></a>
 <a href="https://instagram.com/ejnmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ejnmia" height="30" width="40" /></a>
 <a href="https://dev.to/regi-lpf" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="regi-lpf" height="30" width="40"/></a>
