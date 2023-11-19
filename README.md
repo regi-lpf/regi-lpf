@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regi-lpf&show_icons=true&locale=en" alt="regi-lpf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regi-lpf&" alt="regi-lpf" /></p>
