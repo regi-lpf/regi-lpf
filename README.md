@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Regis</h1>
-<h3 align="center">Um estudante do Técnico em Info no IFC, e de muitas outras coisas</h3>
+<h3 align="center">Um estudante do último ano do Técnico em Info no IFC, e de muitas outras coisas</h3>
 
-- 🌱 Estou aprendendo atualmente **Java Spring**
+- 🌱 Estou aprendendo atualmente **JavaScript**
 
-- 📄 Já estudei **Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria)**
+- 📄 Já estudei **Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria), Java (+Devs2Blu)...**
 
 - ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, corinthians⚽🦅**
 
