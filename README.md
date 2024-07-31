@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo atualmente **JavaScript**
 
-- 📄 Já estudei **Python (Curso online), C# (Presencial na ProWay), GameMaker 2 (Por conta própria), Java (+Devs2Blu)...**
+- 📄 Já estudei **Python, C#, GameMaker 2, Java, Angular...**
 
 - ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, corinthians⚽🦅**
 
