@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Regis</h1>
-<h3 align="center">Um estudante do último ano do Técnico em Info no IFC, e de muitas outras coisas</h3>
+<h3 align="center">Um estudante do primeiro ano do Bacharelado em Ciência da Computação na UFT, e de muitas outras coisas</h3>
 
-- 🌱 Estou aprendendo atualmente **JavaScript**
+- 🌱 Estou aprendendo atualmente **C**
 
-- 📄 Já estudei **Python, C#, GameMaker 2, Java, Angular...**
+- 📄 Já estudei **Python, C#, GameMaker 2, Java, Typescript...**
 
-- ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, corinthians⚽🦅**
+- ⚡ Gosto de **tocar guitarra🎸👨‍🎤, ouvir música🎧🎶, videogames🎮🕹️, Corinthians⚽🦅**
 
 - 📫 Entre em contato comigo via **reginaldo.fillo@gmail.com**
 
