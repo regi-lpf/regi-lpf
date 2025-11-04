@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Regis</h1>
-<h3 align="center">First-year Computer Science student at UFT — always learning, always building</h3>
+<h3 align="center">First-year Computer Science student at IFC — always learning, always building</h3>
 
 - 🌱 Currently learning **C**
 - 📚 Previously explored **Python, C#, GameMaker 2, Java, TypeScript**
