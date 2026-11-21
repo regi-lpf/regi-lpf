@@ -72,10 +72,7 @@
 ---
 
 <h3 align="left">Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regi-lpf&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=regi-lpf&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crfvasconcellos&theme=gruvbox" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crfvasconcellos&theme=gruvbox" width="400"/>
 </p>
