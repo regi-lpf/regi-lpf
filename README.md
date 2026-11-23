@@ -4,6 +4,7 @@
 - 🌱 Currently learning **Haskell**
 - 📚 Previously explored **Python, C#, GameMaker 2, Java, TypeScript, C, Prolog**
 - 🎸 I enjoy **playing guitar, listening to music, gaming**, and I'm a big **Corinthians** fan
+- 💻 Take a look at my projects: [Portfolio](https://regi-lpf.github.io/)
 - 📫 Reach me at: **reginaldo.fillo@gmail.com**
 
 ---
