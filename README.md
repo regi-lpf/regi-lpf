@@ -74,6 +74,6 @@
 
 <h3 align="left">Stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=regi-lpf&theme=gruvbox" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=regi-lpf&theme=gruvbox" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=regi-lpf&rank_icon=github&hide_title=true&show_icons=true&theme=shades-of-purple" alt="GitHub Stats Card" width="450"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=regi-lpf&layout=compact&langs_count=4&theme=shades-of-purple" alt="Top Languages Card" width="340"/>
 </p>
