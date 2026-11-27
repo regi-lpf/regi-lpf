@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Regis</h1>
 <h3 align="center">Computer Science student at IFC</h3>
 
-- 🌱 Currently learning **Haskell**
-- 📚 Previously explored **Python, C#, GameMaker 2, Java, TypeScript, C, Prolog**
+- 🌱 Currently learning **LLMs**
+- 📚 Previously explored **Python, C#, GameMaker 2, Java, TypeScript, C, Prolog, Haskell**
 - 🎸 I enjoy **playing guitar, listening to music, gaming**, and I'm a big **Corinthians** fan
 - 💻 Take a look at my projects: **[Portfolio](https://regi-lpf.github.io/)**
 - 📫 Reach me at: **reginaldo.fillo@gmail.com**
